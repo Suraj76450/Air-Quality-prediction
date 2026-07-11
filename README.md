@@ -11,3 +11,15 @@ Air pollution has become one of the major environmental concerns worldwide. Pred
 This project uses Machine Learning algorithms to analyze historical air quality data and predict AQI based on various pollutant concentrations and environmental factors.
 
 ---
+
+## 🚀 Features
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning Model Training
+- Model Evaluation
+- AQI Prediction
+- Easy-to-use Prediction Interface
+
+---
