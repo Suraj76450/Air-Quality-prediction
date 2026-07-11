@@ -125,5 +125,15 @@ Evaluation metrics may include:
 
 ---
 
+## 🔮 Future Improvements
+
+- Deploy using Streamlit or Flask
+- Live AQI Prediction
+- Real-time API Integration
+- Weather API Support
+- Deep Learning Models
+
+---
+
 
 
