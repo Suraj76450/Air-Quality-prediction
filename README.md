@@ -51,3 +51,20 @@ Air-Quality-prediction/
 ```
 
 ---
+
+## 📊 Dataset
+
+The dataset contains air quality measurements collected from monitoring stations.
+
+Features may include:
+
+- PM2.5
+- PM10
+- NO₂
+- SO₂
+- CO
+- O₃
+- Temperature
+- Humidity
+- Wind Speed
+
