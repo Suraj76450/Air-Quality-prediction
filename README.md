@@ -33,3 +33,21 @@ This project uses Machine Learning algorithms to analyze historical air quality 
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+---
+
+## 📂 Project Structure
+
+```
+Air-Quality-prediction/
+│
+├── dataset/
+├── notebooks/
+├── models/
+├── app.py
+├── requirements.txt
+├── README.md
+└── ...
+```
+
+---
