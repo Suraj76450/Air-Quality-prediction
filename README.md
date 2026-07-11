@@ -135,5 +135,20 @@ Evaluation metrics may include:
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome.
+
+Fork the repository, create a new branch, and submit a Pull Request.
+
+---
+
+## 👨‍💻 Author
+
+**Suraj Kumar**
+
+GitHub: https://github.com/Suraj76450
+
+---
 
 
