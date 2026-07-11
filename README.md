@@ -125,14 +125,5 @@ Evaluation metrics may include:
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of:
-
-- Dataset
-- EDA Graphs
-- Prediction Output
-- Web Application
-
----
 
