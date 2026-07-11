@@ -102,3 +102,15 @@ python app.py
 
 ---
 
+## 📈 Machine Learning Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Selection
+5. Model Training
+6. Model Evaluation
+7. AQI Prediction
+
+---
+
