@@ -114,3 +114,25 @@ python app.py
 
 ---
 
+## 📊 Model Evaluation
+
+Evaluation metrics may include:
+
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+- Dataset
+- EDA Graphs
+- Prediction Output
+- Web Application
+
+---
+
