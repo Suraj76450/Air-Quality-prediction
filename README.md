@@ -68,3 +68,37 @@ Features may include:
 - Humidity
 - Wind Speed
 
+  Target:
+
+- Air Quality Index (AQI)
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Suraj76450/Air-Quality-prediction.git
+```
+
+Move into the project directory
+
+```bash
+cd Air-Quality-prediction
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the project
+
+```bash
+python app.py
+```
+
+---
+
