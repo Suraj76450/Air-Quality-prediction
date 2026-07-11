@@ -23,3 +23,13 @@ This project uses Machine Learning algorithms to analyze historical air quality 
 - Easy-to-use Prediction Interface
 
 ---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
